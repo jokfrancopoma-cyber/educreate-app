@@ -1,0 +1,8 @@
+{
+  "name": "EduCreate - Scientific Book Authoring",
+  "description": "Platform for creating interactive Math, Physics, Biology, and Chemistry books and academic sheets with dynamic graphs, diagrams, and PDF/Word export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
